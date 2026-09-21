@@ -1,0 +1,6 @@
+{
+  "appId": "com.altrack.tech",
+  "appName": "AL Track",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

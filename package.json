@@ -1,0 +1,11 @@
+{
+  "name": "al-track",
+  "version": "1.0.0",
+  "description": "A/L Tech Track PWA and Native App",
+  "main": "www/index.html",
+  "dependencies": {
+    "@capacitor/android": "^5.0.0",
+    "@capacitor/cli": "^5.0.0",
+    "@capacitor/core": "^5.0.0"
+  }
+}
